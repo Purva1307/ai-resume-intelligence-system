@@ -106,7 +106,8 @@ streamlit run app_streamlit.py
 
 ## Live Deployment
 
-The live version of this application will be available shortly on Streamlit Cloud.
+🔗 Try the app here:  
+https://ai-resume-intelligence-system.streamlit.app
 
 ---
 
