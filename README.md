@@ -109,7 +109,11 @@ streamlit run app_streamlit.py
 🔗 Try the app here:  
 https://ai-resume-intelligence-system.streamlit.app
 
-Note: The app may take ~20 seconds to start if inactive (free cloud hosting).
+
+⚠️ **Note:** This project is hosted on the free tier of Streamlit Cloud.
+If the app has been inactive for some time, the server may go to sleep.
+When opening the link, it may take **30–40 seconds to wake up and start the app**.
+
 
 ---
 
