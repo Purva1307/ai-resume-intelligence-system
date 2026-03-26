@@ -21,10 +21,14 @@ This project introduces a **Hybrid Resume Intelligence Engine** that combines st
 
 ---
 
-## Dashboard Preview
+## UI Preview
 
 <p align="center">
-  <img src="assets/Dashboard.png" width="750">
+  <img src="assets/UI.png" width="750"><br><br>
+  <img src="assets/UI1.png" width="750"><br><br>
+  <img src="assets/UI2.png" width="750"><br><br>
+  <img src="assets/UI3.png" width="750"><br><br>
+  <img src="assets/UI4.png" width="750">
 </p>
 
 ---
@@ -81,39 +85,14 @@ This creates a more intelligent and fair evaluation process.
 
 ---
 
-## How To Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Purva1307/ai-resume-intelligence-system.git
-cd ai-resume-intelligence-system
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the app:
-
-```bash
-streamlit run app_streamlit.py
-```
-
----
-
 ## Live Deployment
 
 🔗 Try the app here:  
 https://ai-resume-intelligence-system.streamlit.app
 
-
-⚠️ **Note:** This project is hosted on the free tier of Streamlit Cloud.
-If the app has been inactive for some time, the server may go to sleep.
+⚠️ **Note:** This project is hosted on the free tier of Streamlit Cloud.  
+If the app has been inactive for some time, the server may go to sleep.  
 When opening the link, it may take **30–40 seconds to wake up and start the app**.
-
 
 ---
 
@@ -148,4 +127,3 @@ It bridges the gap between academic AI models and real-world hiring systems.
 B.Tech CSE  
 AI/ML Enthusiast  
 
----
